@@ -48,6 +48,11 @@ span{
 }
 .allign-2{
     text-align: center;
+    margin-top: 30px;
+    
+}
+.have{
+    width: 350px;
     
 }
 
@@ -144,6 +149,10 @@ span{
 }
 .card-footer p{
     font-size: 6px;
+}
+.nav-item:hover{
+    background-color: green;
+    border-radius: 15px;
 }
 
 
