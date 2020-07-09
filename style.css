@@ -1,0 +1,290 @@
+
+.container{
+    margin-bottom: 50px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+h3{
+    font-size: 20px;
+    margin-top: 20px;
+}
+h6{
+    font-size: 10px;
+}
+.background-hed{
+    
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+
+}
+.background{
+    background: #F0FFF0;
+    
+}
+.background img{
+    width: 300px;
+    
+}
+.button-design{
+    background-image: linear-gradient(to bottom, lightgreen 10%, green 100%);
+    color: #ffff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+span{
+    color: green;
+}
+.allign-1{
+    text-align: center;
+    margin-top: 40px;
+}
+.allign-2{
+    text-align: center;
+    
+}
+
+.allign-1 h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.back1 img{
+    width: 100px;
+    margin-top: 20px;
+      
+}
+
+.back1{
+    border: none;
+    padding: 80px;
+    text-align: center;
+}
+.back2 img{
+    width: 100px;
+    margin-top: 20px;
+      
+}
+
+.back2{
+    border: none;
+    padding: 80px;
+    text-align: center;
+}
+.back3 img{
+    width: 100px;
+    margin-top: 20px;
+      
+}
+
+.back3{
+    border: none;
+    padding: 80px;
+    text-align: center;
+}
+
+.back4 img{
+    width: 100px;
+    margin-top: 20px;
+    
+}
+
+.back4{
+    border: none; 
+    padding: 80px;
+    text-align: center;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+}
+
+.image-size img{
+    width: 250px;
+    padding-left: 80px;
+}
+.text-resizing p{
+    padding: 50px;
+}
+.foot-back{
+    text-align: center;
+    height: 350px;
+    background: black;
+    color: white;
+}
+
+.item-cet{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.item-cet p{
+    font-size: 14px;
+}
+.item-cet h4{
+    font-size: 20px;
+}
+.p-margin{
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.card-footer img{
+    width: 40px;
+}
+.card-footer p{
+    font-size: 6px;
+}
+
+
+/*
+.back1{
+    height: 270px;
+    width: 270px;
+    background: red;
+}
+
+.back2{
+    height: 270px;
+    width: 270px;
+    background: black;
+}
+
+.back3{
+    height: 270px;
+    width: 270px;
+    background: orange;
+}
+
+.back4{
+    height: 270px;
+    width: 270px;
+    background: blue;
+}
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.container{
+    margin-bottom: 50px;
+}
+.logo img{
+    width: 200px;
+}
+span{
+    color: green;
+}
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.logo{
+flex: none;
+order: 0;
+align-self: center;
+margin: 10px 10px;
+background: #F0FFF0;
+padding-bottom: 40px;
+}
+.nav-item:hover{
+    background-color: green;
+    border-radius: 20px;
+}
+
+.back{
+    
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+    
+    
+    
+    text-align: center;
+}
+
+.row img{
+    
+    width: 400px;
+}
+
+.button-design{
+    background-image: linear-gradient(to bottom, lightgreen 10%, green 100%);
+    color: #ffff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.section-area{
+   size: 20px;
+}
+.book{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+    
+    
+    
+    
+}
+
+.book img{
+    width: 80px;
+    
+    
+}
+*/
